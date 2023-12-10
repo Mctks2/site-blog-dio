@@ -8,6 +8,7 @@ body{
 .photo{
   border: 1px solid #505050;
   border-radius: 50%;
+  margin-top: 15px;
 }
 
 #title, .subtitle, .post_title{
